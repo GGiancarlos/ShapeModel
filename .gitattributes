@@ -1,0 +1,3 @@
+* text=auto whitespace=blank-at-eof,blank-at-eol,no-lf-at-eof,tab-in-indent,tabwidth=2
+
+*.md text=auto whitespace=blank-at-eof,-blank-at-eol,no-lf-at-eof,tab-in-indent,tabwidth=2
